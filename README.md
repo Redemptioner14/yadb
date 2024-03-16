@@ -1,1 +1,1 @@
-# yadb
+# YADB: Yet Another Database
